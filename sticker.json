@@ -1,1097 +1,1097 @@
 {
-    "data": [
-        {
-            "categoryName": "Wild Life",
-            "stickerPack": [
-                {
-                    "identifier": "ibl_mad_monkey",
-                    "isWhitelisted": "",
-                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "name": "Crazy Monkeys",
-                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "publisher": "IBL INFOTECH",
-                    "publisherEmail": "",
-                    "publisherWebsite": "https://iblinfotech.com/",
-                    "stickers": [
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_45.png",
-                            "size": "45996 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_45.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_63.png",
-                            "size": "54580 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_63.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_66.png",
-                            "size": "50479 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_66.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_112.png",
-                            "size": "42897 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_112.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_117.png",
-                            "size": "49877 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_117.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_118.png",
-                            "size": "45262 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_118.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_119.png",
-                            "size": "51091 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_119.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_120.png",
-                            "size": "43883 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_120.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_121.png",
-                            "size": "49660 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_121.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_122.png",
-                            "size": "45816 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_122.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_123.png",
-                            "size": "55307 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_123.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_124.png",
-                            "size": "44073 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_124.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_125.png",
-                            "size": "43292 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_125.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_126.png",
-                            "size": "50408 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_126.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_127.png",
-                            "size": "42728 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_127.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_128.png",
-                            "size": "51995 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_128.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_129.png",
-                            "size": "54862 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_129.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_130.png",
-                            "size": "50524 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_130.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_131.png",
-                            "size": "50588 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_131.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_132.png",
-                            "size": "43879 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_132.png"
-                        }
-                    ],
-                    "stickersAddedIndex": "",
-                    "totalSize": "2932053 KB",
-                    "trayImageFile": "monkey_1.png",
-                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/monkey_1.png"
-                },
-                {
-                    "identifier": "ibl_expressions_animal",
-                    "isWhitelisted": "",
-                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "name": "Expressions of Animal",
-                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "publisher": "IBL INFOTECH",
-                    "publisherEmail": "",
-                    "publisherWebsite": "https://iblinfotech.com/",
-                    "stickers": [
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_18.png",
-                            "size": "65144 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_18.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_19.png",
-                            "size": "56805 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_19.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_20.png",
-                            "size": "60732 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_20.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_21.png",
-                            "size": "50694 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_21.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_22.png",
-                            "size": "56416 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_22.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_23.png",
-                            "size": "61584 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_23.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_24.png",
-                            "size": "60398 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_24.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_25.png",
-                            "size": "55853 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_25.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_26.png",
-                            "size": "57708 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_26.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_27.png",
-                            "size": "56805 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_27.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_28.png",
-                            "size": "53556 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_28.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_29.png",
-                            "size": "61083 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_29.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_30.png",
-                            "size": "47130 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_30.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_31.png",
-                            "size": "42990 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_31.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_32.png",
-                            "size": "42140 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_32.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_33.png",
-                            "size": "44949 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_33.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_34.png",
-                            "size": "44870 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_34.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_35.png",
-                            "size": "44467 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_35.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_36.png",
-                            "size": "41052 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_36.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_37.png",
-                            "size": "44173 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_37.png"
-                        }
-                    ],
-                    "stickersAddedIndex": "",
-                    "totalSize": "1964856 KB",
-                    "trayImageFile": "wild_life_2.png",
-                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/wild_life_2.png"
-                },
-                {
-                    "identifier": "ibl_animal_art",
-                    "isWhitelisted": "",
-                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "name": "Animal Art",
-                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "publisher": "IBL INFOTECH",
-                    "publisherEmail": "",
-                    "publisherWebsite": "https://iblinfotech.com/",
-                    "stickers": [
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_1.png",
-                            "size": "28942 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_1.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_2.png",
-                            "size": "74830 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_2.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_3.png",
-                            "size": "28142 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_3.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_4.png",
-                            "size": "20373 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_4.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_5.png",
-                            "size": "26658 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_5.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_6.png",
-                            "size": "23736 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_6.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_7.png",
-                            "size": "62221 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_7.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_8.png",
-                            "size": "63821 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_8.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_9.png",
-                            "size": "58923 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_9.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_10.png",
-                            "size": "51280 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_10.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_11.png",
-                            "size": "68711 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_11.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_12.png",
-                            "size": "71894 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_12.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_13.png",
-                            "size": "59849 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_13.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_14.png",
-                            "size": "65537 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_14.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_15.png",
-                            "size": "74204 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_15.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_16.png",
-                            "size": "67726 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_16.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_17.png",
-                            "size": "69460 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_17.png"
-                        }
-                    ],
-                    "stickersAddedIndex": "",
-                    "totalSize": "916307 KB",
-                    "trayImageFile": "wild_life_1.png",
-                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/wild_life_1.png"
-                }
-            ]
-        },
-        {
-            "categoryName": "Simply Texts",
-            "stickerPack": [
-                {
-                    "identifier": "ibl_text_punch",
-                    "isWhitelisted": "",
-                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "name": "Text Punch",
-                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "publisher": "IBL INFOTECH",
-                    "publisherEmail": "",
-                    "publisherWebsite": "https://iblinfotech.com/",
-                    "stickers": [
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_309.png",
-                            "size": "62363 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_309.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_310.png",
-                            "size": "28136 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_310.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_311.png",
-                            "size": "50938 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_311.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_312.png",
-                            "size": "57009 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_312.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_313.png",
-                            "size": "49650 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_313.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_314.png",
-                            "size": "70687 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_314.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_315.png",
-                            "size": "36606 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_315.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_316.png",
-                            "size": "69654 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_316.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_317.png",
-                            "size": "71554 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_317.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_318.png",
-                            "size": "65563 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_318.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_319.png",
-                            "size": "65509 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_319.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_320.png",
-                            "size": "72471 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_320.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_321.png",
-                            "size": "68782 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_321.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_322.png",
-                            "size": "68670 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_322.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_323.png",
-                            "size": "73336 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_323.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_324.png",
-                            "size": "80705 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_324.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_325.png",
-                            "size": "70192 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_325.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_326.png",
-                            "size": "63257 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_326.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_327.png",
-                            "size": "69305 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_327.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_328.png",
-                            "size": "67094 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_328.png"
-                        }
-                    ],
-                    "stickersAddedIndex": "",
-                    "totalSize": "5364201 KB",
-                    "trayImageFile": "simply_text_1.png",
-                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/simply_text_1.png"
-                },
-                {
-                    "identifier": "ibl_text_1",
-                    "isWhitelisted": "",
-                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "name": "Blast with Texts",
-                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "publisher": "IBL INFOTECH",
-                    "publisherEmail": "",
-                    "publisherWebsite": "https://iblinfotech.com/",
-                    "stickers": [
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_285.png",
-                            "size": "50657 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_285.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_286.png",
-                            "size": "25869 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_286.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_287.png",
-                            "size": "76406 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_287.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_288.png",
-                            "size": "77283 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_288.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_289.png",
-                            "size": "63592 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_289.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_290.png",
-                            "size": "69423 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_290.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_291.png",
-                            "size": "68789 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_291.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_292.png",
-                            "size": "75288 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_292.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_293.png",
-                            "size": "80339 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_293.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_294.png",
-                            "size": "46703 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_294.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_295.png",
-                            "size": "24032 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_295.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_296.png",
-                            "size": "60138 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_296.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_297.png",
-                            "size": "77658 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_297.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_298.png",
-                            "size": "69273 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_298.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_299.png",
-                            "size": "23612 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_299.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_300.png",
-                            "size": "65047 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_300.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_301.png",
-                            "size": "24786 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_301.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_302.png",
-                            "size": "60885 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_302.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_303.png",
-                            "size": "61155 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_303.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_304.png",
-                            "size": "69732 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_304.png"
-                        }
-                    ],
-                    "stickersAddedIndex": "",
-                    "totalSize": "4102720 KB",
-                    "trayImageFile": "simply_text_2.png",
-                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/simply_text_2.png"
-                }
-            ]
-        },
-        {
-            "categoryName": "Lovely Couples",
-            "stickerPack": [
-                {
-                    "identifier": "ibl_love_art",
-                    "isWhitelisted": "",
-                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "name": "Love Art",
-                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "publisher": "IBL INFOTECH",
-                    "publisherEmail": "",
-                    "publisherWebsite": "https://iblinfotech.com/",
-                    "stickers": [
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_1.png",
-                            "size": "69992 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_1.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_2.png",
-                            "size": "65637 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_2.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_3.png",
-                            "size": "73755 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_3.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_4.png",
-                            "size": "46615 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_4.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_5.png",
-                            "size": "23989 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_5.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_6.png",
-                            "size": "39869 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_6.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_7.png",
-                            "size": "27345 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_7.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_8.png",
-                            "size": "14411 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_8.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_9.png",
-                            "size": "40317 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_9.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_10.png",
-                            "size": "37701 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_10.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_11.png",
-                            "size": "25645 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_11.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_12.png",
-                            "size": "38804 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_12.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_13.png",
-                            "size": "25022 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_13.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_14.png",
-                            "size": "37062 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_14.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_15.png",
-                            "size": "47286 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_15.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_16.png",
-                            "size": "60440 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_16.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_17.png",
-                            "size": "29668 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_17.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_18.png",
-                            "size": "49414 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_18.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_19.png",
-                            "size": "23217 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_19.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "love_sticker_20.png",
-                            "size": "15714 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_20.png"
-                        }
-                    ],
-                    "stickersAddedIndex": "",
-                    "totalSize": "6156104 KB",
-                    "trayImageFile": "love_sticker_55.png",
-                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_55.png"
-                }
-            ]
-        },
-        {
-            "categoryName": "Cates",
-            "stickerPack": [
-                {
-                    "identifier": "ibl_lovely_cate",
-                    "isWhitelisted": "",
-                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "name": "Lovely Cates",
-                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "publisher": "IBL INFOTECH",
-                    "publisherEmail": "",
-                    "publisherWebsite": "https://iblinfotech.com/",
-                    "stickers": [
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_190.png",
-                            "size": "37899 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_190.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_191.png",
-                            "size": "41321 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_191.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_192.png",
-                            "size": "33467 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_192.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_193.png",
-                            "size": "38129 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_193.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_194.png",
-                            "size": "39228 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_194.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_195.png",
-                            "size": "40633 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_195.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_196.png",
-                            "size": "39883 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_196.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_197.png",
-                            "size": "48305 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_197.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_198.png",
-                            "size": "45048 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_198.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_199.png",
-                            "size": "42842 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_199.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_206.png",
-                            "size": "34510 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_206.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_207.png",
-                            "size": "36045 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_207.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_208.png",
-                            "size": "37662 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_208.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_209.png",
-                            "size": "36811 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_209.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_210.png",
-                            "size": "38777 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_210.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_211.png",
-                            "size": "38938 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_211.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_212.png",
-                            "size": "36353 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_212.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_213.png",
-                            "size": "37742 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_213.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_214.png",
-                            "size": "38274 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_214.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_215.png",
-                            "size": "45405 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_215.png"
-                        }
-                    ],
-                    "stickersAddedIndex": "",
-                    "totalSize": "7765890 KB",
-                    "trayImageFile": "Cate_1.png",
-                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/Cate_1.png"
-                },
-                {
-                    "identifier": "ibl_cute_cate",
-                    "isWhitelisted": "",
-                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "name": "Cute Cate",
-                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
-                    "publisher": "IBL INFOTECH",
-                    "publisherEmail": "",
-                    "publisherWebsite": "https://iblinfotech.com/",
-                    "stickers": [
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_81.png",
-                            "size": "31803 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_81.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_82.png",
-                            "size": "34564 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_82.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_83.png",
-                            "size": "36229 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_83.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_84.png",
-                            "size": "32425 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_84.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_85.png",
-                            "size": "34152 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_85.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_86.png",
-                            "size": "43170 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_86.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_133.png",
-                            "size": "46003 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_133.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_134.png",
-                            "size": "46239 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_134.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_135.png",
-                            "size": "45845 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_135.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_136.png",
-                            "size": "46718 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_136.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_137.png",
-                            "size": "44041 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_137.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_138.png",
-                            "size": "45470 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_138.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_139.png",
-                            "size": "45083 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_139.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_140.png",
-                            "size": "45388 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_140.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_141.png",
-                            "size": "44417 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_141.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_184.png",
-                            "size": "36935 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_184.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_185.png",
-                            "size": "37689 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_185.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_186.png",
-                            "size": "43033 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_186.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_187.png",
-                            "size": "42560 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_187.png"
-                        },
-                        {
-                            "emojis": [],
-                            "imageFileName": "sticker_188.png",
-                            "size": "40750 KB",
-                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_188.png"
-                        }
-                    ],
-                    "stickersAddedIndex": "",
-                    "totalSize": "6978618 KB",
-                    "trayImageFile": "Cate_2.png",
-                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/Cate_2.png"
-                }
-            ]
-        }
-    ],
-    "status": "200",
-    "message": "success",
-    "result": "true"
+    "data": [
+        {
+            "categoryName": "Wild Life",
+            "stickerPack": [
+                {
+                    "identifier": "ibl_mad_monkey",
+                    "isWhitelisted": "",
+                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "name": "Crazy Monkeys",
+                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "publisher": "IBL INFOTECH",
+                    "publisherEmail": "",
+                    "publisherWebsite": "https://iblinfotech.com/",
+                    "stickers": [
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_45.png",
+                            "size": "45996 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_45.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_63.png",
+                            "size": "54580 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_63.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_66.png",
+                            "size": "50479 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_66.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_112.png",
+                            "size": "42897 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_112.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_117.png",
+                            "size": "49877 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_117.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_118.png",
+                            "size": "45262 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_118.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_119.png",
+                            "size": "51091 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_119.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_120.png",
+                            "size": "43883 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_120.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_121.png",
+                            "size": "49660 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_121.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_122.png",
+                            "size": "45816 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_122.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_123.png",
+                            "size": "55307 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_123.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_124.png",
+                            "size": "44073 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_124.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_125.png",
+                            "size": "43292 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_125.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_126.png",
+                            "size": "50408 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_126.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_127.png",
+                            "size": "42728 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_127.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_128.png",
+                            "size": "51995 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_128.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_129.png",
+                            "size": "54862 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_129.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_130.png",
+                            "size": "50524 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_130.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_131.png",
+                            "size": "50588 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_131.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_132.png",
+                            "size": "43879 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_132.png"
+                        }
+                    ],
+                    "stickersAddedIndex": "",
+                    "totalSize": "2932053 KB",
+                    "trayImageFile": "monkey_1.png",
+                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/monkey_1.png"
+                },
+                {
+                    "identifier": "ibl_expressions_animal",
+                    "isWhitelisted": "",
+                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "name": "Expressions of Animal",
+                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "publisher": "IBL INFOTECH",
+                    "publisherEmail": "",
+                    "publisherWebsite": "https://iblinfotech.com/",
+                    "stickers": [
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_18.png",
+                            "size": "65144 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_18.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_19.png",
+                            "size": "56805 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_19.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_20.png",
+                            "size": "60732 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_20.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_21.png",
+                            "size": "50694 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_21.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_22.png",
+                            "size": "56416 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_22.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_23.png",
+                            "size": "61584 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_23.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_24.png",
+                            "size": "60398 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_24.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_25.png",
+                            "size": "55853 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_25.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_26.png",
+                            "size": "57708 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_26.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_27.png",
+                            "size": "56805 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_27.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_28.png",
+                            "size": "53556 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_28.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_29.png",
+                            "size": "61083 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_29.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_30.png",
+                            "size": "47130 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_30.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_31.png",
+                            "size": "42990 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_31.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_32.png",
+                            "size": "42140 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_32.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_33.png",
+                            "size": "44949 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_33.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_34.png",
+                            "size": "44870 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_34.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_35.png",
+                            "size": "44467 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_35.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_36.png",
+                            "size": "41052 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_36.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_37.png",
+                            "size": "44173 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_37.png"
+                        }
+                    ],
+                    "stickersAddedIndex": "",
+                    "totalSize": "1964856 KB",
+                    "trayImageFile": "wild_life_2.png",
+                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/wild_life_2.png"
+                },
+                {
+                    "identifier": "ibl_animal_art",
+                    "isWhitelisted": "",
+                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "name": "Animal Art",
+                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "publisher": "IBL INFOTECH",
+                    "publisherEmail": "",
+                    "publisherWebsite": "https://iblinfotech.com/",
+                    "stickers": [
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_1.png",
+                            "size": "28942 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_1.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_2.png",
+                            "size": "74830 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_2.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_3.png",
+                            "size": "28142 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_3.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_4.png",
+                            "size": "20373 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_4.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_5.png",
+                            "size": "26658 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_5.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_6.png",
+                            "size": "23736 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_6.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_7.png",
+                            "size": "62221 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_7.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_8.png",
+                            "size": "63821 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_8.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_9.png",
+                            "size": "58923 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_9.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_10.png",
+                            "size": "51280 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_10.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_11.png",
+                            "size": "68711 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_11.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_12.png",
+                            "size": "71894 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_12.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_13.png",
+                            "size": "59849 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_13.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_14.png",
+                            "size": "65537 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_14.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_15.png",
+                            "size": "74204 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_15.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_16.png",
+                            "size": "67726 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_16.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_17.png",
+                            "size": "69460 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_17.png"
+                        }
+                    ],
+                    "stickersAddedIndex": "",
+                    "totalSize": "916307 KB",
+                    "trayImageFile": "wild_life_1.png",
+                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/wild_life_1.png"
+                }
+            ]
+        },
+        {
+            "categoryName": "Simply Texts",
+            "stickerPack": [
+                {
+                    "identifier": "ibl_text_punch",
+                    "isWhitelisted": "",
+                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "name": "Text Punch",
+                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "publisher": "IBL INFOTECH",
+                    "publisherEmail": "",
+                    "publisherWebsite": "https://iblinfotech.com/",
+                    "stickers": [
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_309.png",
+                            "size": "62363 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_309.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_310.png",
+                            "size": "28136 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_310.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_311.png",
+                            "size": "50938 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_311.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_312.png",
+                            "size": "57009 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_312.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_313.png",
+                            "size": "49650 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_313.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_314.png",
+                            "size": "70687 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_314.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_315.png",
+                            "size": "36606 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_315.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_316.png",
+                            "size": "69654 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_316.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_317.png",
+                            "size": "71554 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_317.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_318.png",
+                            "size": "65563 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_318.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_319.png",
+                            "size": "65509 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_319.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_320.png",
+                            "size": "72471 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_320.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_321.png",
+                            "size": "68782 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_321.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_322.png",
+                            "size": "68670 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_322.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_323.png",
+                            "size": "73336 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_323.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_324.png",
+                            "size": "80705 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_324.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_325.png",
+                            "size": "70192 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_325.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_326.png",
+                            "size": "63257 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_326.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_327.png",
+                            "size": "69305 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_327.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_328.png",
+                            "size": "67094 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_328.png"
+                        }
+                    ],
+                    "stickersAddedIndex": "",
+                    "totalSize": "5364201 KB",
+                    "trayImageFile": "simply_text_1.png",
+                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/simply_text_1.png"
+                },
+                {
+                    "identifier": "ibl_text_1",
+                    "isWhitelisted": "",
+                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "name": "Blast with Texts",
+                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "publisher": "IBL INFOTECH",
+                    "publisherEmail": "",
+                    "publisherWebsite": "https://iblinfotech.com/",
+                    "stickers": [
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_285.png",
+                            "size": "50657 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_285.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_286.png",
+                            "size": "25869 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_286.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_287.png",
+                            "size": "76406 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_287.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_288.png",
+                            "size": "77283 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_288.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_289.png",
+                            "size": "63592 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_289.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_290.png",
+                            "size": "69423 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_290.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_291.png",
+                            "size": "68789 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_291.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_292.png",
+                            "size": "75288 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_292.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_293.png",
+                            "size": "80339 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_293.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_294.png",
+                            "size": "46703 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_294.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_295.png",
+                            "size": "24032 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_295.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_296.png",
+                            "size": "60138 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_296.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_297.png",
+                            "size": "77658 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_297.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_298.png",
+                            "size": "69273 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_298.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_299.png",
+                            "size": "23612 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_299.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_300.png",
+                            "size": "65047 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_300.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_301.png",
+                            "size": "24786 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_301.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_302.png",
+                            "size": "60885 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_302.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_303.png",
+                            "size": "61155 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_303.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_304.png",
+                            "size": "69732 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_304.png"
+                        }
+                    ],
+                    "stickersAddedIndex": "",
+                    "totalSize": "4102720 KB",
+                    "trayImageFile": "simply_text_2.png",
+                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/simply_text_2.png"
+                }
+            ]
+        },
+        {
+            "categoryName": "Lovely Couples",
+            "stickerPack": [
+                {
+                    "identifier": "ibl_love_art",
+                    "isWhitelisted": "",
+                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "name": "Love Art",
+                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "publisher": "IBL INFOTECH",
+                    "publisherEmail": "",
+                    "publisherWebsite": "https://iblinfotech.com/",
+                    "stickers": [
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_1.png",
+                            "size": "69992 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_1.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_2.png",
+                            "size": "65637 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_2.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_3.png",
+                            "size": "73755 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_3.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_4.png",
+                            "size": "46615 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_4.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_5.png",
+                            "size": "23989 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_5.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_6.png",
+                            "size": "39869 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_6.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_7.png",
+                            "size": "27345 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_7.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_8.png",
+                            "size": "14411 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_8.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_9.png",
+                            "size": "40317 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_9.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_10.png",
+                            "size": "37701 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_10.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_11.png",
+                            "size": "25645 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_11.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_12.png",
+                            "size": "38804 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_12.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_13.png",
+                            "size": "25022 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_13.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_14.png",
+                            "size": "37062 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_14.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_15.png",
+                            "size": "47286 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_15.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_16.png",
+                            "size": "60440 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_16.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_17.png",
+                            "size": "29668 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_17.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_18.png",
+                            "size": "49414 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_18.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_19.png",
+                            "size": "23217 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_19.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "love_sticker_20.png",
+                            "size": "15714 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_20.png"
+                        }
+                    ],
+                    "stickersAddedIndex": "",
+                    "totalSize": "6156104 KB",
+                    "trayImageFile": "love_sticker_55.png",
+                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/love_sticker_55.png"
+                }
+            ]
+        },
+        {
+            "categoryName": "Cates",
+            "stickerPack": [
+                {
+                    "identifier": "ibl_lovely_cate",
+                    "isWhitelisted": "",
+                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "name": "Lovely Cates",
+                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "publisher": "IBL INFOTECH",
+                    "publisherEmail": "",
+                    "publisherWebsite": "https://iblinfotech.com/",
+                    "stickers": [
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_190.png",
+                            "size": "37899 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_190.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_191.png",
+                            "size": "41321 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_191.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_192.png",
+                            "size": "33467 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_192.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_193.png",
+                            "size": "38129 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_193.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_194.png",
+                            "size": "39228 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_194.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_195.png",
+                            "size": "40633 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_195.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_196.png",
+                            "size": "39883 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_196.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_197.png",
+                            "size": "48305 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_197.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_198.png",
+                            "size": "45048 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_198.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_199.png",
+                            "size": "42842 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_199.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_206.png",
+                            "size": "34510 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_206.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_207.png",
+                            "size": "36045 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_207.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_208.png",
+                            "size": "37662 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_208.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_209.png",
+                            "size": "36811 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_209.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_210.png",
+                            "size": "38777 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_210.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_211.png",
+                            "size": "38938 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_211.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_212.png",
+                            "size": "36353 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_212.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_213.png",
+                            "size": "37742 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_213.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_214.png",
+                            "size": "38274 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_214.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_215.png",
+                            "size": "45405 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_215.png"
+                        }
+                    ],
+                    "stickersAddedIndex": "",
+                    "totalSize": "7765890 KB",
+                    "trayImageFile": "Cate_1.png",
+                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/Cate_1.png"
+                },
+                {
+                    "identifier": "ibl_cute_cate",
+                    "isWhitelisted": "",
+                    "licenseAgreementWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "name": "Cute Cate",
+                    "privacyPolicyWebsite": "http://iblinfotech.work/resources/sticker-maker-privacy-policy.html",
+                    "publisher": "IBL INFOTECH",
+                    "publisherEmail": "",
+                    "publisherWebsite": "https://iblinfotech.com/",
+                    "stickers": [
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_81.png",
+                            "size": "31803 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_81.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_82.png",
+                            "size": "34564 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_82.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_83.png",
+                            "size": "36229 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_83.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_84.png",
+                            "size": "32425 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_84.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_85.png",
+                            "size": "34152 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_85.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_86.png",
+                            "size": "43170 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_86.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_133.png",
+                            "size": "46003 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_133.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_134.png",
+                            "size": "46239 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_134.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_135.png",
+                            "size": "45845 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_135.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_136.png",
+                            "size": "46718 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_136.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_137.png",
+                            "size": "44041 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_137.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_138.png",
+                            "size": "45470 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_138.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_139.png",
+                            "size": "45083 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_139.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_140.png",
+                            "size": "45388 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_140.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_141.png",
+                            "size": "44417 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_141.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_184.png",
+                            "size": "36935 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_184.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_185.png",
+                            "size": "37689 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_185.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_186.png",
+                            "size": "43033 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_186.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_187.png",
+                            "size": "42560 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_187.png"
+                        },
+                        {
+                            "emojis": [],
+                            "imageFileName": "sticker_188.png",
+                            "size": "40750 KB",
+                            "uri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/sticker_188.png"
+                        }
+                    ],
+                    "stickersAddedIndex": "",
+                    "totalSize": "6978618 KB",
+                    "trayImageFile": "Cate_2.png",
+                    "trayImageUri": "http://wastickermaker-demo.iblinfotech.work/uploadpack/Cate_2.png"
+                }
+            ]
+        }
+    ],
+    "status": "200",
+    "message": "success",
+    "result": "true"
 }
